@@ -1,6 +1,6 @@
 ## Shhh! Who am i?
 - 🤯 Passionate with programming
-- 🫡 7y+ frontend/backend experience 
+- 🫡 8y+ frontend/backend experience 
 - 🔝 30+ active private projects
 
 <br/>
