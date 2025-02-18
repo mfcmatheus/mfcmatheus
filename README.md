@@ -1,6 +1,6 @@
 ## Shhh! Who am i?
 - 🤯 Passionate with programming
-- 🫡 8y+ frontend/backend experience 
+- 🫡 9y+ frontend/backend experience 
 - 🔝 30+ active private projects
 
 <br/>
@@ -14,7 +14,7 @@
 ````.env
 ORIGIN=Brazil-SP
 BASED_ON=Italy-VE
-AGE=24y
+AGE=25y
 PERSONALITY=ESTP
 CURRENTLY_AT=Perspective-it
 SUPPORTED_LANGUAGES=EN,IT,PT
